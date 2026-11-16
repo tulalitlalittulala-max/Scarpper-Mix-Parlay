@@ -1,0 +1,7 @@
+# Secrets and local runtime artifacts
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+picks_today.csv

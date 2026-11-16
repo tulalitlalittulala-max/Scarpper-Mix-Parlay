@@ -1,3 +1,4 @@
-tweepy
-feedparser
-pandas
+tweepy>=4.14,<5
+feedparser>=6.0,<7
+pandas>=2.0,<4
+python-dotenv>=1.0,<2

@@ -1,0 +1,4 @@
+match_id,league,home,away,kickoff_wib,motivation,lineup_confirmed,injuries
+m1,Premier League,Arsenal,Chelsea,21:00,2,false,0
+m2,La Liga,Real Madrid,Barcelona,02:00,2,false,0
+m3,Serie A,Inter Milan,AC Milan,23:45,2,false,0
